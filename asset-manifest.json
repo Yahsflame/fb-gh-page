@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fb-gh-page/static/css/main.d1b05096.chunk.css",
+    "main.js": "/fb-gh-page/static/js/main.194ef228.chunk.js",
+    "main.js.map": "/fb-gh-page/static/js/main.194ef228.chunk.js.map",
+    "runtime-main.js": "/fb-gh-page/static/js/runtime-main.e0e4f126.js",
+    "runtime-main.js.map": "/fb-gh-page/static/js/runtime-main.e0e4f126.js.map",
+    "static/js/2.17d9efa1.chunk.js": "/fb-gh-page/static/js/2.17d9efa1.chunk.js",
+    "static/js/2.17d9efa1.chunk.js.map": "/fb-gh-page/static/js/2.17d9efa1.chunk.js.map",
+    "index.html": "/fb-gh-page/index.html",
+    "precache-manifest.fe2ba199d57949b68bbaf2e14f5c28a2.js": "/fb-gh-page/precache-manifest.fe2ba199d57949b68bbaf2e14f5c28a2.js",
+    "service-worker.js": "/fb-gh-page/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/fb-gh-page/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.17d9efa1.chunk.js.LICENSE": "/fb-gh-page/static/js/2.17d9efa1.chunk.js.LICENSE",
+    "static/media/logo.svg": "/fb-gh-page/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0e4f126.js",
+    "static/js/2.17d9efa1.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.194ef228.chunk.js"
+  ]
+}
